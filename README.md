@@ -6,7 +6,7 @@ I enjoy building practical projects that combine software engineering, clean UI,
 
   Technologies I Use
 - **Frontend**: React, HTML, CSS, JavaScript  
-- **Backend:** Python (Flask / FastAPI)  
+- **Backend:** Python (Flask / FastAPI), Expressjs 
 - **Other:** Git, Linux, REST APIs  
 
   **What I'm Working On**
