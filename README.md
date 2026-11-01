@@ -5,6 +5,7 @@ Third year Electrical & Computer Engineering student at Addis Ababa University. 
 ## What I've built
 
 - **[Goha](https://goha.enoch.et)**: a live tracker for Ethiopian-language tech. A daily job scrapes Hugging Face, arXiv and GitHub for new models, datasets and research, and the site updates from the changes. No database, just JSON snapshots in the repo. Open to contributions via PR.
+- **[Pursuit](https://pursuit.enoch.et)**: a private internship CRM for applications, emails, follow-ups and interviews. Google-verified signup, guided onboarding, analytics and CSV export. Built with Next.js, TypeScript, Supabase and Drizzle. [Source](https://github.com/Henok-Tekeba/pursuit).
 - **[OmniRun](omnirun.enoch.et)**: paste a Hugging Face model link and see whether your machine can run it.
 - **[Shortlist](https://shortlist.enoch.et)**: a shortlist of internship opportunities.
 - **[Ethio Runner](LINK)**: runs unfamiliar Hugging Face ASR models while handling dependency conflicts and runtime compatibility.
@@ -16,7 +17,7 @@ Third year Electrical & Computer Engineering student at Addis Ababa University. 
 
 ## Tech
 
-JavaScript, TypeScript, React, Next.js, Tailwind, shadcn/ui, Node.js / Express, Python (FastAPI, Flask), Hugging Face, Git, Linux
+JavaScript, TypeScript, React, Next.js, Tailwind, shadcn/ui, Node.js / Express, PostgreSQL, Supabase, Drizzle ORM, Python (FastAPI, Flask), Hugging Face, Git, Linux
 
 ## Reach me
 
