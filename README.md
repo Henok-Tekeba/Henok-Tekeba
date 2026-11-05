@@ -1,26 +1,27 @@
 ## Hi, I'm Henok (Enoch)
 
-Third year Electrical & Computer Engineering student at Addis Ababa University. I build software and AI tools, and my long term goal is AI for low resource African languages: Amharic, Afaan Oromo, and Tigrinya.
+3rd-year Electrical & Computer Engineering student at Addis Ababa University. I build software and AI tools. Long term, I want to build AI for Amharic, Afaan Oromo and Tigrinya.
 
-## What I've built
+## Built
 
-- **[Goha](https://goha.enoch.et)**: a live tracker for Ethiopian-language tech. A daily job scrapes Hugging Face, arXiv and GitHub for new models, datasets and research, and the site updates from the changes. No database, just JSON snapshots in the repo. Open to contributions via PR.
-- **[Pursuit](https://pursuit.enoch.et)**: a private internship CRM for applications, emails, follow-ups and interviews. Google-verified signup, guided onboarding, analytics and CSV export. Built with Next.js, TypeScript, Supabase and Drizzle. [Source](https://github.com/Henok-Tekeba/pursuit).
-- **[OmniRun](omnirun.enoch.et)**: paste a Hugging Face model link and see whether your machine can run it.
-- **[Shortlist](https://shortlist.enoch.et)**: a shortlist of internship opportunities.
-- **[Ethio Runner](LINK)**: runs unfamiliar Hugging Face ASR models while handling dependency conflicts and runtime compatibility.
+- **[Goha](https://goha.enoch.et)**: live tracker for Ethiopian-language tech. A daily job scrapes Hugging Face, arXiv and GitHub for new models, datasets and papers. No database, just JSON snapshots in the repo. PRs welcome.
+- **[Pursuit](https://pursuit.enoch.et)**: private CRM for internship applications, emails, follow-ups and interviews. Next.js, TypeScript, Supabase, Drizzle. [Source](https://github.com/Henok-Tekeba/pursuit)
+- **[OmniRun](https://omnirun.enoch.et)**: paste a Hugging Face model link, see if your machine can run it.
+- **[Shortlist](https://shortlist.enoch.et)**: curated internship opportunities.
+- **[Ethio Runner](LINK)**: runs unfamiliar Hugging Face ASR models and handles the dependency conflicts for you.
 
-## What I'm working on
+## Now
 
-- Benchmarking Amharic ASR models using Ethio Runner and Dataset Scout (a tool that turns Hugging Face audio datasets into clean manifests).
-- Looking for a remote internship.
+- Benchmarking Amharic ASR models with Ethio Runner and Dataset Scout (turns Hugging Face audio datasets into clean manifests)
+- Looking for a remote internship
 
-## Tech
+## Stack
 
-JavaScript, TypeScript, React, Next.js, Tailwind, shadcn/ui, Node.js / Express, PostgreSQL, Supabase, Drizzle ORM, Python (FastAPI, Flask), Hugging Face, Git, Linux
+**Web:** TypeScript, React, Next.js, Tailwind, shadcn/ui, Node/Express
+**Data:** PostgreSQL, Supabase, Drizzle
+**Python/AI:** FastAPI, Flask, Hugging Face
+**Tools:** Git, Linux
 
-## Reach me
+## Contact
 
-- Email: tekebahenok6@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/henok-tekeba
-- Portfolio: https://enoch.et
+[Email](mailto:tekebahenok6@gmail.com) · [LinkedIn](https://www.linkedin.com/in/henok-tekeba) · [enoch.et](https://enoch.et)
